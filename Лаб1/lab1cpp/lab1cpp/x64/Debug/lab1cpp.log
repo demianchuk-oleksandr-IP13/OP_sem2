@@ -1,0 +1,5 @@
+﻿  func.cpp
+C:\Users\demya\source\repos\lab1cpp\lab1cpp\func.cpp(45,21): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\demya\source\repos\lab1cpp\lab1cpp\func.cpp(50,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\demya\source\repos\lab1cpp\lab1cpp\func.cpp(53,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lab1cpp.vcxproj -> C:\Users\demya\source\repos\lab1cpp\x64\Debug\lab1cpp.exe
