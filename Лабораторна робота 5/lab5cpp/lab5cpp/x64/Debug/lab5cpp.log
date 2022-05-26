@@ -1,0 +1,11 @@
+﻿  func.cpp
+  main.cpp
+C:\Users\demya\Documents\GitHub\OP_sem2\Лабораторна робота 5\lab5cpp\lab5cpp\main.cpp(22,37): error C2039: "getRoot": не является членом "Tree".
+C:\Users\demya\Documents\GitHub\OP_sem2\Лабораторна робота 5\lab5cpp\lab5cpp\func.h(13): message : см. объявление "Tree"
+C:\Users\demya\Documents\GitHub\OP_sem2\Лабораторна робота 5\lab5cpp\lab5cpp\main.cpp(24,26): error C2039: "getRoot": не является членом "Tree".
+C:\Users\demya\Documents\GitHub\OP_sem2\Лабораторна робота 5\lab5cpp\lab5cpp\func.h(13): message : см. объявление "Tree"
+C:\Users\demya\Documents\GitHub\OP_sem2\Лабораторна робота 5\lab5cpp\lab5cpp\main.cpp(26,26): error C2039: "getRoot": не является членом "Tree".
+C:\Users\demya\Documents\GitHub\OP_sem2\Лабораторна робота 5\lab5cpp\lab5cpp\func.h(13): message : см. объявление "Tree"
+C:\Users\demya\Documents\GitHub\OP_sem2\Лабораторна робота 5\lab5cpp\lab5cpp\main.cpp(28,26): error C2039: "getRoot": не является членом "Tree".
+C:\Users\demya\Documents\GitHub\OP_sem2\Лабораторна робота 5\lab5cpp\lab5cpp\func.h(13): message : см. объявление "Tree"
+  Создание кода...
